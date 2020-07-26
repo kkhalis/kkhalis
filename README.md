@@ -1,9 +1,11 @@
 ### Hello. I'm Khalis. 🙋‍♂️
 
-I dabble mostly on python for data analytics and development for back-end stuff, and angular for front-end frameworks. Still picking up other libraries and frameworks as I go along.
+I dabble mostly on python for data analytics and development for back-end stuff, and angular for front-end frameworks.
+
+Still picking up other libraries and frameworks as I go along, so I'm always open to learning new stuff.
 
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/khaliskassim/) here.
+You can find me on [LinkedIn](https://www.linkedin.com/in/khaliskassim/) here!
 <!--
 **kkhalis/kkhalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
