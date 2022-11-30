@@ -1,6 +1,6 @@
 ### Hello. I'm Khalis. 🙋‍♂️
 
-I dabble mostly on python for data analytics and development for back-end stuff, and angular for front-end frameworks.
+I dabble mostly on python for data analytics. A bit of development on web using Angular and Python too.
 
 Still picking up other libraries and frameworks as I go along, so I'm always open to learning new stuff.
 
