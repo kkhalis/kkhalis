@@ -4,6 +4,7 @@ I dabble mostly on python for data analytics and development for back-end stuff,
 
 Still picking up other libraries and frameworks as I go along, so I'm always open to learning new stuff.
 
+- 🌱 I’m currently learning more on AWS stuff
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/khaliskassim/) here!
 <!--
