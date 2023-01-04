@@ -2,11 +2,14 @@
 
 Always looking at evolving and emerging technologies, and looking at how to solve problems with the correct tools.
 
-I dabble mostly on python for data analytics. A bit of app/web development using various tech stacks. Familiar with MSSQL/MySQL for databases. Also always thinking of ways to build better architectures for small-scale to large enterprise applications.
+I dabble mostly on python for data analytics. 
+A bit of app/web development using various tech stacks. 
+Familiar with MSSQL/MySQL for databases. 
+Also always thinking of ways to build better architectures for small-scale to large enterprise applications.
 
 Still picking up other libraries and frameworks as I go along, so I'm always open to learning new stuff.
 
-- 🌱 I’m currently learning more on AWS stuff
+- 🌱 I’m currently learning more on building better stuff with the cloud
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/khaliskassim/) here!
 <!--
