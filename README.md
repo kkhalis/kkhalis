@@ -9,7 +9,7 @@ Also always thinking of ways to build better architectures for small-scale to la
 - 🌱 I’m currently learning more on building better stuff with the cloud
 - 📫 How to reach me: khaliskassim@hotmail.com
 
-You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khaliskassim/)here!
+You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khaliskassim/) here!
 <!--
 **kkhalis/kkhalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
