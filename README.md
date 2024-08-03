@@ -1,6 +1,6 @@
 ### Hello. I'm Khalis. 🙋‍♂️
 
-I'm an aspiring data analyst and full-stack software engineer.
+I'm a data analyst and full-stack software engineer.
 
 Always looking at evolving and emerging technologies, and looking at how to solve problems with the correct tools.
 
